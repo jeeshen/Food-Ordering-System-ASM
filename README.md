@@ -15,7 +15,7 @@ A console-based food ordering system implemented in x86 assembly language with u
 ## Installation
 ```bash
 # clone the repo
-git clone https://github.com/yourusername/food-ordering-system.git
+git clone https://github.com/jeeshen/food-ordering-system.git
 
 # assemble and link using MASM/TASM
 masm ass.asm;
